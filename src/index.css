@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+nav {
+  text-align: center;
+  background-color: whitesmoke;
+
+}
+
+table {
+  width: 300px;
+  text-align: left;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgb(255, 255, 0);
+  padding: 20px;
+  border: 1px solid black;
+}
+
+th {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 2px solid black;
+}
+
+
+tr {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+td{
+  padding: 5px;
+}
+
+.bold {
+  font-weight: bold;
+
+}
+
+#name {
+  padding: 3px;
+}
+
+#formdiv {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.content {
+  margin: 10px;
+  text-align: center;
+}
+
+form {
+  padding-bottom: 35px;
+}
+
+button {
+  color: white;
+  background-color: green;
+  border: 0;
+  padding: 5px 20px;  
+  margin-left: 10px;
+  font-weight: bold;
+}
